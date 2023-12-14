@@ -19,8 +19,8 @@
       "rdfs:comment": [
         "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
       ],
-      "url": "https://docs.google.com/spreadsheets/d/1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA/export?format=tsv&id=1IoftGB5BTp6oLIFGCvaGEEoVtA0H3VLA&gid=814973786",
-      "dcterms:bibliographicCitation": "Rocío Ana González-Vaquero, Mariano Devoto. 2023. Plant-flower visitor interactions recorded in 49 sites in Argentina (Buenos Aires: Carlos Casares county) by Marcos Monasterolo (2013-15) and Antonio López Carretero (2016)",
+      "url": "https://docs.google.com/spreadsheets/d/1JaiUABVFJp3nFVQN6FY78nzTglx2eft_j4KEZlcFplM/export?format=tsv&id=1JaiUABVFJp3nFVQN6FY78nzTglx2eft_j4KEZlcFplM&gid=359918449",
+      "dcterms:bibliographicCitation": "Bruno Ferreira. 2023. Bruno_Ferreira_Dados_Polinização_Laranja - Template REBIPP Official. ",
       "delimiter": "\t",
       "headerRowCount": 6,
       "null": [
